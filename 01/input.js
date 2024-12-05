@@ -999,3 +999,5 @@ let input =
 53735   79935
 14454   69804
 19976   46609`;
+
+module.exports = input;
